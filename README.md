@@ -1,4 +1,4 @@
-# Nome do meu projeto
+# Pong criado com JavaScript
 
 Rápida descrição do objetivo de fazer esse projeto
 
